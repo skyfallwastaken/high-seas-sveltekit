@@ -40,4 +40,4 @@ An enhanced purchase URL (`/api/buy?itemId={id}`) is also available that you can
 
 Rather than a cryptic Vercel error, the error page provides some useful information and has better styling.
 
-![image](https://cloud-btjsaye91-hack-club-bot.vercel.app/0image.png)
+![image](https://cdn.hackclub.com/rescue?url=https://cloud-btjsaye91-hack-club-bot.vercel.app/0image.png)
